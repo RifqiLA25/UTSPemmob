@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="button_calculaterorang">
+
+        <item name="android:background">@drawable/btn</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/orange</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="button_calculaterputih">
+        <item name="android:background">@drawable/btn</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="btn_hasil">
+        <item name="android:background">@drawable/btn2</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="button_calculatermenuawal">
+        <item name="android:background">@drawable/btn_menuawal</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    
+</resources>

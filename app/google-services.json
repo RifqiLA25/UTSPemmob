@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "400536291386",
+    "project_id": "projectuts-5ac16",
+    "storage_bucket": "projectuts-5ac16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400536291386:android:8be6252b5dbe25c8d44d03",
+        "android_client_info": {
+          "package_name": "com.example.projectuts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9tD80g4G0zt87E_O2m7WDmq1wJy8F8c0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
